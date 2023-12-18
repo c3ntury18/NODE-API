@@ -13,3 +13,10 @@ app.listen(3000, () => {
 })
 
 
+app.post('/register', (req, res) => {
+
+
+
+
+    
+})
