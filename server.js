@@ -18,6 +18,12 @@ const { patiendId, surname, othernames, contact, relationship} =req.body;
 const patientId = patients.length +1;
 
 
+    
+    
+
+
+
+
 
 
 
