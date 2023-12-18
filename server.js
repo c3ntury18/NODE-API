@@ -15,6 +15,8 @@ app.listen(3000, () => {
 
 app.post('/register', (req, res) => {
 const { patiendId, surname, othernames, contact, relationship} =req.body;
+const patientId = patients.length +1;
+
 
 
 
